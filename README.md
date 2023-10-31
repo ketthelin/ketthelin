@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @ketthelin seja bem vindo ao meu porfil 🖤🧋😝
+### 👋 Hi, I’m @ketthelin seja bem vindo ao meu perfil 🖤🧋😝
 
 meu nome é ketthelin agata
 - e estou estudando na [Alura](https://www.alura.com.br)
