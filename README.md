@@ -6,5 +6,5 @@ meu nome é ketthelin agata
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/)
 
 
-![]()
-https://media.tenor.com/sY426q87UKcAAAAC/frustrated-upset.gif
+
+![](https://media.tenor.com/sY426q87UKcAAAAC/frustrated-upset.gif )
